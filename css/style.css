@@ -1,0 +1,8 @@
+.card-title{
+	display: inline-block;
+	width: 80%;
+	text-transform: uppercase;
+}
+.btn-danger{
+	margin-left: 1%;
+}
